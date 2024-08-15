@@ -16,7 +16,7 @@ This project involves analyzing Walmart's sales data to uncover trends and provi
 The dataset consists of 1,000 entries with 17 attributes, all of which are non-null, ensuring completeness for analysis.
 
 ## Exploratory Data Analysis
-The code delivers a dynamic exploratory data analysis (EDA) of the coffee shop sales dataset, revealing critical business insights. It visualizes sales distributions across branches, product lines, and payment methods, while also uncovering daily sales trends and the influence of customer types on revenue. Through a series of targeted plots, the analysis paints a vivid picture of sales patterns, laying the groundwork for deeper business strategy development.
+Developed comprehensive visualizations using Python's `matplotlib` and `seaborn`, analyzing sales distribution across branches, daily performance trends, and product line comparisons. Applied data aggregation and categorical sorting techniques to extract and represent key sales insights through countplot, lineplot, and boxplot,etc enabling detailed interpretation of sales patterns over time.
 
 ## Model Development and Evaluation 
  It then builds and evaluates two regression models—Linear Regression and Random Forest Regression—by splitting the data into training and testing sets(80:20). The models' performance is assessed using Mean Squared Error (MSE) and R-squared (R²) metrics, with results visualized through actual vs. predicted plots and residual distributions.
